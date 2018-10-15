@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Download for Instagram</string>
+    <string name="menu_saves">Downloads</string>
+    <string name="menu_more">More</string>
+
+    <string name="btn_play">View Download</string>
+
+    <string name="fb_ads">299192964017121_299194084017009</string>
+
+
+    <string name="cave_label">Downloading...</string>
+    <string name="cave_title_holder">♫ Jamie Sharp - original  sound - thejamiesharp</string>
+    <string name="empty_text">No downloads yet</string>
+    <string name="fini">Download Complete</string>
+    <string name="menu_trend">Trending</string>
+    <string name="menu_popular">Popular</string>
+    <string name="menu_random">Random</string>
+    <string name="menu_rate">Rate App</string>
+    <string name="menu_home">Home</string>
+
+    <string name="menu_title">Options</string>
+
+</resources>
